@@ -1,4 +1,4 @@
-With (lazy.nvim)[https://github.com/folke/lazy.nvim]
+With [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lazy
   {
     'blumaa/octopus.nvim',
@@ -11,3 +11,4 @@ With (lazy.nvim)[https://github.com/folke/lazy.nvim]
 
 ```
 
+Massive, enormous, and great inspiration was taken from [duck.nvim](https://github.com/tamton-aquib/duck.nvim)
