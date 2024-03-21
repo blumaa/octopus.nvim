@@ -1,3 +1,9 @@
+## Ohne Accidents
+
+this is a simple and stupid plugin that makes random octupi dance across your IDE.
+
+![exampe of octopus.nvim](images/example.png)
+
 With [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lazy
   {
